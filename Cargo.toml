@@ -1,0 +1,12 @@
+[package]
+name = "bsd-redis21"
+version = "0.1.0"
+authors = ["G. Queiroz <gabrieljvnq@gmail.com>"]
+edition = "2018"
+description = "An online list of people inside an organization that serves as a way for new people to meet old ones and as a way to match people for internal projects."
+repository = "https://github.com/gjvnq/bsd-redis21"
+license = "AGPL-3.0-or-later"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
